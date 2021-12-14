@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "product": "biscuit",
+      "quantity": 2,
+      "purchased": 0
+    }
+  ],
+  "users": {
+    "name": "reena",
+    "password": "reena21",
+    "uid": 1
+  }
+}
